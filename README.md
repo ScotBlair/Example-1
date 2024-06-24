@@ -1,4 +1,4 @@
-Example 1: Slow Personal Computer<br />
+EXAMPLE 1: SLOW PERSONAL COMPUTER<br />
 
 <br />- Intake<br />
 The customer Robert Moore has submitted a support ticket for a slow personal laptop.  He is upset that after the new update, Windows is slow to start up and that apps are taking a long time to load.<br />
