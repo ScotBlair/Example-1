@@ -1,3 +1,5 @@
+Example 1: Slow Personal Computer
+
 - Intake<br />
 I have logged into osTicket as the customer Robert Moore and submitted a support ticket for a slow personal laptop.  The customer is complaining that after the new update, Windows is slow to start up and that apps are taking a long time to load.
 
